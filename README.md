@@ -43,7 +43,7 @@ orders (fact)
 
 Plus a separate `orderitems` table for line-item detail (quantity, unit price per order).
 
-![Data Model](https://github.com/user-attachments/assets/bd9e22db-ce56-4aa0-80eb-bf407380f61b)
+![Data Model](Screenshot%202025-11-28%20192630.png)
 
 ---
 
@@ -74,7 +74,7 @@ Repeat Customers = CALCULATE(DISTINCTCOUNT(orders[customerid]), ...)
 ### Step 4 — Interactive Dashboard
 Built a single-page executive dashboard with full interactivity.
 
-![Dashboard](https://github.com/user-attachments/assets/3e427292-477b-4825-8e0b-5757230db160)
+![Dashboard](Screenshot%202025-11-28%20222835.png)
 
 ---
 
